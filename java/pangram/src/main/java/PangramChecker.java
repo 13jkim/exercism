@@ -1,12 +1,27 @@
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.Set;
+
 public class PangramChecker {
+    Set<String> alphaLetters;
+
+    public PangramChecker() {
+        this("abcdefghijklmnopqrstuvwxyz");
+    }
+
+    public PangramChecker(String alphabet) {
+        alphaLetters = new HashSet<>(
+                Arrays.asList(alphabet.split("")));
+    }
 
     public boolean isPangram(String input) {
-        String alphabet = "abcdefghijklmnopqrstuvwxyz";
-        for (int i = 0; i < alphabet.length(); i++) {
-            if (input.toLowerCase().indexOf(alphabet.charAt(i)) < 0)
-                return false;
+
+        for (int i = 0; i < input.length(); i++) {
+            String letter = "" + input.toLowerCase().charAt(i);
+            if (alphaLetters.contains(letter))
+                alphaLetters.remove(letter);
         }
-        return true;
+        return alphaLetters.isEmpty();
     }
 
 }

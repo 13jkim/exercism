@@ -12,7 +12,6 @@ public class AcronymTest {
         assertEquals(expected, new Acronym(phrase).get());
     }
 
-    @Ignore("Remove to run test")
     @Test
     public void lowercaseWords() {
         String phrase = "Ruby on Rails";
@@ -20,7 +19,6 @@ public class AcronymTest {
         assertEquals(expected, new Acronym(phrase).get());
     }
 
-    @Ignore("Remove to run test")
     @Test
     public void punctuation() {
         String phrase = "First In, First Out";
@@ -28,7 +26,6 @@ public class AcronymTest {
         assertEquals(expected, new Acronym(phrase).get());
     }
 
-    @Ignore("Remove to run test")
     @Test
     public void NonAcronymAllCapsWord() {
         String phrase = "GNU Image Manipulation Program";
@@ -36,7 +33,6 @@ public class AcronymTest {
         assertEquals(expected, new Acronym(phrase).get());
     }
 
-    @Ignore("Remove to run test")
     @Test
     public void punctuationWithoutWhitespace() {
         String phrase = "Complementary metal-oxide semiconductor";

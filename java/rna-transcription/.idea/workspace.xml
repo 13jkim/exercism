@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35efb139-6d0f-4796-894e-6765893d1977" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../armstrong-numbers/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../armstrong-numbers/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../armstrong-numbers/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../reverse-string/src/main/java/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse-string/src/main/java/ReverseString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../reverse-string/src/test/java/ReverseStringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse-string/src/test/java/ReverseStringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RnaTranscription.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RnaTranscription.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../two-fer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -26,14 +29,18 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.4627383">
+    <splitter split-orientation="horizontal" split-proportion="0.5372617">
       <split-first>
         <leaf>
           <file leaf-file-name="RnaTranscription.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/RnaTranscription.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="165">
-                  <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+                <state relative-caret-position="210">
+                  <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+                  <folding>
+                    <element signature="e#680#681#0" expanded="true" />
+                    <element signature="e#707#708#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -42,10 +49,10 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="RnaTranscriptionTest.java" pinned="false" current-in-tab="false">
+          <file leaf-file-name="RnaTranscriptionTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/RnaTranscriptionTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="345">
+                <state relative-caret-position="420">
                   <caret line="34" selection-start-line="34" selection-end-line="34" />
                   <folding>
                     <element signature="e#369#370#0" expanded="true" />
@@ -63,11 +70,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+          <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/README.md">
               <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
                 <state split_layout="SPLIT">
-                  <first_editor />
+                  <first_editor relative-caret-position="-35" />
                   <second_editor />
                 </state>
               </provider>
@@ -295,7 +302,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="3060136727000" />
+        <entry key="$PROJECT_DIR$" value="3060137577000" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="3260766417" />
       </map>
@@ -586,7 +593,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530068381326</updated>
-      <workItem from="1530068384495" duration="621000" />
+      <workItem from="1530068384495" duration="1663000" />
     </task>
     <servers />
   </component>
@@ -600,13 +607,21 @@
     <history-entry file="RnaTranscriptionTest - 2018.06.26 at 23h 05m 14s.xml">
       <configuration name="RnaTranscriptionTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RnaTranscriptionTest - 2018.06.26 at 23h 12m 23s.xml">
+      <configuration name="RnaTranscriptionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RnaTranscriptionTest - 2018.06.26 at 23h 13m 09s.xml">
+      <configuration name="RnaTranscriptionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RnaTranscriptionTest - 2018.06.26 at 23h 25m 37s.xml">
+      <configuration name="RnaTranscriptionTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="621000" />
+    <option name="totallyTimeSpent" value="1663000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -617,7 +632,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31172413" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31172413" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
@@ -647,9 +662,28 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-35" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RnaTranscription.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#707#708#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/RnaTranscriptionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
+        <state relative-caret-position="420">
           <caret line="34" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="e#369#370#0" expanded="true" />
@@ -663,21 +697,6 @@
             <element signature="e#1035#1036#0" expanded="true" />
             <element signature="e#1124#1125#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RnaTranscription.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
         </state>
       </provider>
     </entry>
